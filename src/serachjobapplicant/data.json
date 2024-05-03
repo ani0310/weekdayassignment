@@ -1,0 +1,9 @@
+
+ "{
+    "data": {
+      "experienceOptions": ["Option1", "Option2", "Option3"],
+      "Location": ["Location1", "Location2", "Location3"]
+    }
+  };"
+  
+module.exports = jsonData;
